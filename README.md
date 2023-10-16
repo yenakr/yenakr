@@ -2,7 +2,7 @@
 
 ### Hi there 👋
     
-    Hi there! My name is **Yena**!
+    Hi there! My name is Yena!
     I'm student of R.L. Paschal High School.  
 <br/>
 
