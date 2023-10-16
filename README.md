@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YenaKim&fontSize=70&animation=twinkling)
 
 ### Hi there 👋
+    
+    Hi there! My name is **Yena**!
+    I'm student of R.L. Paschal High School.  
+<br/>
 
-My name is **Yena**! 😄
+
 
 <a href="www.instagram.com/yenayebo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
