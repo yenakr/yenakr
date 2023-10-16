@@ -31,7 +31,7 @@
   <a href="https://www.kisb.net/"><img src="https://img.shields.io/badge/KISB-097479?style=flat-square&logo=React&logoColor=white&link=https://www.kisb.net/"/></a>&nbsp
   <a href="http://sykis.withschool.co.kr/"><img src="https://img.shields.io/badge/SKIS-5197d8?style=flat-square&logo=React&logoColor=white&link=http://sykis.withschool.co.kr/"/></a>&nbsp
   <a href="http://www.koreaschool.org/"><img src="https://img.shields.io/badge/YKS-a7c134?style=flat-square&logo=React&logoColor=white&link=http://www.koreaschool.org/"/></a>&nbsp
-
+  <a href="https://www.fwisd.org/Paschal/"><img src="https://img.shields.io/badge/Paschal-4f2683?style=flat-square&logo=React&logoColor=white&link=https://www.fwisd.org/Paschal/"/></a>&nbsp
 
 </p>
 <br>
