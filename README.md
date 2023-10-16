@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
-
 <br>
 
 <h3 align="center">Social Media</h3>
@@ -26,6 +25,14 @@
   <a href="https://www.instagram.com/yenayebo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yenayebo/"/></a>&nbsp
 </p>
 <br>
+
+<h3 align="center">🏫</h3>
+<p align="center">
+  <a href="https://www.kisb.net/"><img src="https://img.shields.io/badge/KISB-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/yenayebo/](https://www.kisb.net/)"/></a>&nbsp
+</p>
+<br>
+
+
 
 
 <!--
