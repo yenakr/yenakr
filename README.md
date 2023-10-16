@@ -2,6 +2,8 @@
 
 My name is **Yena**! 😄
 
+<a href="www.instagram.com/yenayebo"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=instagram&logoColor=white&link=www.instagram.com/yenayebo"/></a>
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 <!--
