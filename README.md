@@ -29,6 +29,8 @@
 <h3 align="center">🏫</h3>
 <p align="center">
   <a href="https://www.kisb.net/"><img src="https://img.shields.io/badge/KISB-61DAFB?style=flat-square&logo=React&logoColor=black&link=[https://www.instagram.com/yenayebo/](https://www.kisb.net/)"/></a>&nbsp
+  <a href="http://sykis.withschool.co.kr/"><img src="https://img.shields.io/badge/KISB-61DAFB?style=flat-square&logo=React&logoColor=black&link=http://sykis.withschool.co.kr/"/></a>&nbsp
+
 </p>
 <br>
 
