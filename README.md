@@ -33,10 +33,11 @@
   <a href="http://www.koreaschool.org/"><img src="https://img.shields.io/badge/YKS-a7c134?style=for-the-badge&logo=yoast&logoColor=white&link=http://www.koreaschool.org/"/></a>&nbsp
   <a href="https://www.fwisd.org/Paschal/"><img src="https://img.shields.io/badge/Paschal-4f2683?style=for-the-badge&logo=planet&logoColor=white&link=https://www.fwisd.org/Paschal/"/></a>&nbsp
   <a href="https://www.hanyang.ac.kr/"><img src="https://img.shields.io/badge/Hanyang-004c86?style=for-the-badge&logo=hugo&logoColor=white&link=https://www.hanyang.ac.kr/"/></a>&nbsp
-
-
 </p>
 <br>
+
+![yenakr's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+
 
 
 
