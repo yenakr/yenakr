@@ -2,7 +2,7 @@
 
 <div align="center">
     
-### Hi there 👋
+### 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
     
     My name is Yena!
     I'm student of R.L. Paschal High School.  
