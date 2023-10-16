@@ -4,8 +4,8 @@
     
 ### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 👋
     
-    My name is 𝒀𝒆𝒏𝒂 𝑲𝒊𝒎!
-    I'm student of R.L. Paschal High School.  
+    𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐘𝐞𝐧𝐚 𝐊𝐢𝐦.
+    𝐈 𝐚𝐦 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐨𝐟 𝐑.𝐋. 𝐏𝐚𝐬𝐜𝐡𝐚𝐥 𝐇𝐢𝐠𝐡 𝐒𝐜𝐡𝐨𝐨𝐥.  
 <br/>
 
 
