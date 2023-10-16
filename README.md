@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Yena&fontSize=70&animation=twinkling)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yena!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div align="center">
     
