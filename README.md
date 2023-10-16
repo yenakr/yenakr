@@ -2,14 +2,14 @@
 
 <div align="center">
     
-### 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
+### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 👋
     
     My name is Yena!
     I'm student of R.L. Paschal High School.  
 <br/>
 
 
-<h3 align="center">𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤</h3>
+<h3 align="center">𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -20,7 +20,7 @@
 </p>
 <br>
 
-<h3 align="center">𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚</h3>
+<h3 align="center">𝙎𝙤𝙘𝙞𝙖𝙡 𝙈𝙚𝙙𝙞𝙖</h3>
 <p align="center">
   <a href="https://www.instagram.com/yenayebo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/yenayebo/"/></a>&nbsp
 </p>
