@@ -13,6 +13,7 @@
 
 <p align="center"> 𝘛𝘦𝘤𝘩𝘴 𝘵𝘩𝘢𝘵 𝘐'𝘷𝘦 𝘶𝘴𝘦𝘥 𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘰𝘯𝘤𝘦 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
@@ -20,11 +21,15 @@
 </p>
 <br>
 
+
 <h3 align="center">𝙎𝙤𝙘𝙞𝙖𝙡 𝙈𝙚𝙙𝙞𝙖</h3>
 <p align="center">
   <a href="https://www.instagram.com/yenayebo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/yenayebo/"/></a>&nbsp
+  <a href = "mailto:maybeyena@naver.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </p>
 <br>
+
 
 <h3 align="center">🏫</h3>
 <p align="center">
@@ -35,6 +40,7 @@
   <a href="https://www.hanyang.ac.kr/"><img src="https://img.shields.io/badge/Hanyang-004c86?style=for-the-badge&logo=hugo&logoColor=white&link=https://www.hanyang.ac.kr/"/></a>&nbsp
 </p>
 <br>
+
 
 <br>
 
