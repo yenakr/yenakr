@@ -36,16 +36,7 @@
 <br>
 
 
-<h3 align="center"> 𝙈𝙮 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 </h3>
-<p>
-    <img width="250" src="java.png"/>
-</p>
-<br>
 
-
-<br>
-
-![yenakr's github stats](https://github-readme-stats.vercel.app/api?username=yenakr&show_icons=true)
 
 
 
