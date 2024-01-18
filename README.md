@@ -1,9 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yena!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div align="center">
-    
-### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 👋
-
 
 
 <h3 align="center"> 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠 </h3>
