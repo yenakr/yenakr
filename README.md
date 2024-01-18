@@ -18,7 +18,7 @@
 
 <h3 align="center"> 𝙎𝙤𝙘𝙞𝙖𝙡 𝙈𝙚𝙙𝙞𝙖 </h3>
 <p align="center">
-  <a href="https://www.instagram.com/yenayebo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/yenayebo/"/></a>&nbsp
+  <a href="https://www.instagram.com/yenayebo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/instayena/"/></a>&nbsp
   <a href = "mailto:maybeyena@naver.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </p>
